@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/kuang" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="用户小明"
+            android:textColor="#f4b3c2"
+            android:layout_margin="8dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="这个书包是我见过最丑的书包"
+            android:layout_margin="10dp"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/kuang" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="用户小红"
+            android:textColor="#f4b3c2"
+            android:layout_margin="8dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="哇好便宜！卖我卖我！快点给我！爷现在就要买！卖我！！！！！！！请把我的包！带回我的家"
+            android:layout_margin="10dp"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/kuang" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="用户小王"
+            android:textColor="#f4b3c2"
+            android:layout_margin="8dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="太阳当空照，花儿对我笑，小鸟说，早早早，你为什么背上大书包？太阳当空照，花儿对我笑，小鸟说，早早早，你为什么背上大书包？太阳当空照，花儿对我笑，小鸟说，早早早，你为什么背上大书包？太阳当空照，花儿对我笑，小鸟说，早早早，你为什么背上大书包？太阳当空照，花儿对我笑，小鸟说，早早早，你为什么背上大书包？太阳当空照，花儿对我笑，小鸟说，早早早，你为什么背上大书包？"
+            android:layout_margin="10dp"
+            android:textColor="#000"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
